@@ -5,5 +5,5 @@ Save Format v3.0(19990112)
 @end;
 appname "benchmark";
 applib "pbexbm.pbl";
-LibList "pbexbm.pbl;pbdom125.pbd";
+LibList "pbexbm.pbl";
 type "pb";
